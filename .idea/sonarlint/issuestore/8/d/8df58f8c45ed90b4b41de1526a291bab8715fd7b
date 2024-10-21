@@ -1,11 +1,11 @@
 
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ϊ›£©2J$3923e3a0-a83d-4c72-84cb-bd1ec1eb8715
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ϋ›£©2J$13fb5171-54d1-4fa2-9604-f850535357b1
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ϊ›£©2J$b0f0be5f-6647-4072-9418-47b81ff1670f
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ϋ›£©2J$2a24aabc-c354-4126-9d28-a42c60cad891
 
-java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "json".(²ί‡8έ›£©2J$3fad7e9f-4095-41e9-9c0a-0affb02809f3
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "json".(²ί‡8έ›£©2J$71e13554-eb98-4245-9220-2a5ce493d219
 
-java:S2095"HUse try-with-resources or close this "HttpClient" in a "finally" clause.(¨ΪΤύÿÿÿÿ8ι›£©2J$a977f7ad-2912-4028-9dd7-3f911cbafcde
+java:S2095"HUse try-with-resources or close this "HttpClient" in a "finally" clause.(¨ΪΤύÿÿÿÿ8ι›£©2J$9897fa0a-647e-42ad-a333-855abcb032e6
 ‡
-java:S2147"DCombine this catch with the one at line 20, which has the same body.(δ Ή€8ρ›£©2J$20d57ed2-c36f-4aa7-929d-fc14271c4ce2
+java:S2147"DCombine this catch with the one at line 20, which has the same body.(δ Ή€8ρ›£©2J$22c58b17-8912-4e66-9dac-77c2166e7b7f
 ΅
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8ς›£©2J$f2b30b7d-0807-4433-a8ad-f99ce53d1913
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€8ς›£©2J$9bc3140f-b859-42a3-a4fe-209aeabbb97d

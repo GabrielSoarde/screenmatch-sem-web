@@ -1,0 +1,17 @@
+
+o	java:S116"SRename this field "ENDERECO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üù²Ô8’¾Á…«2
+n	java:S116"RRename this field "API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ŠŠ8’¾Á…«2
+>
+java:S1170"!Make this final field static too.(üù²Ô8“¾Á…«2
+>
+java:S1170"!Make this final field static too.(›ŠŠ8“¾Á…«2
+L	java:S106"+Replace this use of System.out by a logger.(šòŠëüÿÿÿÿ8¾Á…«2
+G	java:S106!"+Replace this use of System.out by a logger.(¨Å“‹8 ¾Á…«2
+L	java:S106)"+Replace this use of System.out by a logger.(î´’ùÿÿÿÿ8£¾Á…«2
+]	java:S125+"<This block of commented-out lines of code should be removed.(äÍ¼™üÿÿÿÿ8¥¾Á…«2
+G	java:S1062"+Replace this use of System.out by a logger.(Ó°¶æ8§¾Á…«2
+—
+java:S62046"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8©¾Á…«2
+L	java:S1068"+Replace this use of System.out by a logger.(è†´ùÿÿÿÿ8ª¾Á…«2
+L	java:S106="+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ8¬¾Á…«2
+L	java:S106D"+Replace this use of System.out by a logger.(Åì“¬ıÿÿÿÿ8°¾Á…«2

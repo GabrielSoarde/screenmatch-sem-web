@@ -11,3 +11,11 @@ r
 Bsrc/main/java/br/com/soarde/screenmatch/service/ConverteDados.java,f\c\fcae7dc08f7ba58ed7c86a201abd1d18c739ded6
 s
 Csrc/main/java/br/com/soarde/screenmatch/service/IConverteDados.java,b\6\b6a54473fd7bca189dc412dc765ab9c0ff40ccec
+p
+@src/main/java/br/com/soarde/screenmatch/model/DadosEpisodio.java,9\5\95ab9dc1351d7538a0a1809a3e6c8100410586be
+q
+Asrc/main/java/br/com/soarde/screenmatch/model/DadosTemporada.java,9\a\9a5bd44bff6aa37c26e2bce8a8ec34fd48cdeb54
+p
+@src/main/java/br/com/soarde/screenmatch/principal/Principal.java,0\a\0a2086e8abfca7599687898f3c564f61893fef2d
+k
+;src/main/java/br/com/soarde/screenmatch/model/Episodio.java,a\3\a32e33d61e0b36b6f2e6746b04311f93fb74af9d
